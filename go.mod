@@ -1,4 +1,4 @@
-module github.com/go-random/template
+module github.com/go-random/mac
 
 go 1.21.4
 
